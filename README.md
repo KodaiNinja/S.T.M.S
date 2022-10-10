@@ -24,7 +24,7 @@
 
 **A trial version with limited functionality is available on GitHub**
 
-[![download](https://user-images.githubusercontent.com/80776324/194966073-a2f42d70-916e-420f-a757-b0a29222192e.png)](https://t.me/h_eraman_t)
+[![download](https://user-images.githubusercontent.com/80776324/194966073-a2f42d70-916e-420f-a757-b0a29222192e.png)](https://github.com/ebankoff/S.T.M.S/releases/tag/TRIAL)
 
 **To buy the full version, contact me:**
 * Telegram: https://t.me/h_eraman_t
@@ -67,13 +67,13 @@
 
 **На GitHub представлена пробная версия с ограниченным функционалом**
 
-[![Untitled (5)](https://user-images.githubusercontent.com/80776324/194966167-f702be9f-4e47-493b-852e-ad3cbced382e.png)](https://t.me/h_eraman_t)
+[![download](https://user-images.githubusercontent.com/80776324/194966167-f702be9f-4e47-493b-852e-ad3cbced382e.png)](https://github.com/ebankoff/S.T.M.S/releases/tag/TRIAL)
 
 **Чтобы купить полную версию, свяжитесь со мной:**
 * Telegram: https://t.me/h_eraman_t
 * Discord: ebankoff#5573
 
-[![Untitled (6)](https://user-images.githubusercontent.com/80776324/194966226-c0e38ea7-b855-4031-862b-1470312574e2.png)](https://t.me/h_eraman_t)
+[![buy](https://user-images.githubusercontent.com/80776324/194966226-c0e38ea7-b855-4031-862b-1470312574e2.png)](https://t.me/h_eraman_t)
 
 # 📌 Автору на кофе
 
