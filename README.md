@@ -30,6 +30,8 @@
 * Telegram: https://t.me/h_eraman_t
 * Discord: ebankoff#5573
 
+**Full version costs $115**
+
 [![buy](https://user-images.githubusercontent.com/80776324/194965690-e26ba9fe-dd8e-49bf-aaa9-4e684ec5a689.png)](https://t.me/h_eraman_t)
 
 
@@ -72,6 +74,8 @@
 **Чтобы купить полную версию, свяжитесь со мной:**
 * Telegram: https://t.me/h_eraman_t
 * Discord: ebankoff#5573
+
+**Стоимость полной версии - 7000 руб.**
 
 [![buy](https://user-images.githubusercontent.com/80776324/194966226-c0e38ea7-b855-4031-862b-1470312574e2.png)](https://t.me/h_eraman_t)
 
